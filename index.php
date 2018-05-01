@@ -117,5 +117,6 @@
 
   <p class="myPadding">If you wanted the connection string, I would create an .ini file outside of the web directory with the username, password and hostname, read the .ini file and create the connection string.</p>
 
+  <p class="myPadding2"><img src="wundergroundLogo_4c_horz.jpg" alt="Weather Underground">Weather Underground is a registered trademark of The Weather Channel, LLC. both in the United States and internationally.</p>
 </body>
 </html>
